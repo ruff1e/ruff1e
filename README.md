@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently a Junior at Arizona State University studying Computer Science.\n
+I am currently a Junior at Arizona State University studying Computer Science.   
 My main focus is to learn by developing and self-hosting projects full stack applications that solve real-world problems.
 
 <!--
