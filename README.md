@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am currently a Junior at Arizona State University studying Computer Science.   
-My main focus is to learn by developing and self-hosting full stack prjects that solve real-world problems.
+My main focus is to learn by developing and self-hosting full stack projects that solve real-world problems.
 
 <!--
 **ruff1e/ruff1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
