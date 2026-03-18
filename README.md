@@ -36,3 +36,7 @@ I focus on backend engineering.
 ### 📊 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruff1e&color=blue&style=flat)
+
+### 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/ruff1e/ruff1e/output/github-contribution-grid-snake-dark.svg)
