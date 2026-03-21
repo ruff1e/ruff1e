@@ -22,7 +22,7 @@ I focus on backend engineering.
   <img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
   <img src="https://iconic-api.onrender.com/dark/fastapi" width="48px" />
   <img src="https://iconic-api.onrender.com/dark/django" width="48px" />
-  <img src="https://iconic-api.onrender.com/dark/spring" width="48px" />
+  <img src="https://iconic-api.onrender.com/dark/springboot" width="48px" />
   <img src="https://iconic-api.onrender.com/dark/nextjs" width="48px" />
   <img src="https://iconic-api.onrender.com/dark/react" width="48px" />
   <img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
