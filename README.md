@@ -35,7 +35,7 @@ I focus on backend engineering.
 
 ### 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/ruff1e/ruff1e/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/ruff1e/ruff1e/output/github-contribution-grid-snake-dark.svg#v1)
 
 ### 📊 Profile Views
 
